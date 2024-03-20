@@ -3,8 +3,8 @@
   padding: 0px;
 }
 
-.body {
-  font-family: Montserrat, sans-serif;
+body {
+  font-family: "Montserrat", sans-serif;
 }
 
 a {
@@ -23,18 +23,6 @@ a {
   width: 1440px;
   background-position: center center;
 }
-
-.title {
-  font-size: 64px;
-  line-height: 78.02px;
-  margin-top: 217.1px;
-  margin-left: 120.22px;
-  margin-bottom: 32px;
-  color: rgb(255, 255, 255);
-  font-style: normal;
-  max-width: 700px;
-}
-
 .top__text {
   font-size: 18px;
   line-height: 32px;
@@ -46,7 +34,6 @@ a {
   margin-left: 120.22px;
   color: rgb(255, 255, 255);
 }
-
 .top__link {
   width: 236.06px;
   height: 48.6px;
@@ -68,6 +55,17 @@ a {
   background: rgb(156, 3, 50);
 }
 
+.title {
+  font-size: 64px;
+  line-height: 78.02px;
+  margin-top: 217.1px;
+  margin-left: 120.22px;
+  margin-bottom: 32px;
+  color: rgb(255, 255, 255);
+  font-style: normal;
+  max-width: 700px;
+}
+
 .for-box {
   background-image: url(img/Rectangle\ 5.jpg);
   width: 1440px;
@@ -87,7 +85,6 @@ a {
        column-gap: 32px;
   flex-wrap: nowrap;
 }
-
 .for__item {
   height: 300px;
   display: flex;
@@ -97,16 +94,13 @@ a {
   margin-top: 128px;
   border-radius: 16px;
 }
-
 .for__item_1 {
   background-image: url(img/Group\ 1.jpg);
   margin-left: 120px;
 }
-
 .for__item_2 {
   background-image: url(img/Group\ 2.jpg);
 }
-
 .for__item_3 {
   background-image: url(img/Group\ 3.jpg);
   margin-right: 120px;
