@@ -1,0 +1,107 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.top {
+  height: 1024px;
+  background-image: url(img/Rectangle\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1440px;
+  background-position: center center;
+}
+.top__text {
+  font-size: 18px;
+  line-height: 32px;
+  margin-bottom: 44px;
+  font-style: normal;
+  font-weight: 400;
+  width: 481px;
+  height: 64px;
+  margin-left: 120.22px;
+  color: rgb(255, 255, 255);
+}
+.top__link {
+  width: 236.06px;
+  height: 48.6px;
+  margin-left: 120px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.94px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(156, 3, 50);
+  -o-border-image: initial;
+     border-image: initial;
+  background: rgb(156, 3, 50);
+}
+
+.title {
+  font-size: 64px;
+  line-height: 78.02px;
+  margin-top: 217.1px;
+  margin-left: 120.22px;
+  margin-bottom: 32px;
+  color: rgb(255, 255, 255);
+  font-style: normal;
+  max-width: 700px;
+}
+
+.for-box {
+  background-image: url(img/Rectangle\ 5.jpg);
+  width: 1440px;
+  height: 556px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-position: center center;
+}
+
+.for {
+  display: flex;
+  -moz-column-gap: 32px;
+       column-gap: 32px;
+  flex-wrap: nowrap;
+}
+.for__item {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 379px;
+  margin-top: 128px;
+  border-radius: 16px;
+}
+.for__item_1 {
+  background-image: url(img/Group\ 1.jpg);
+  margin-left: 120px;
+}
+.for__item_2 {
+  background-image: url(img/Group\ 2.jpg);
+}
+.for__item_3 {
+  background-image: url(img/Group\ 3.jpg);
+  margin-right: 120px;
+}/*# sourceMappingURL=style.css.map */
